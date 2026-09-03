@@ -1,5 +1,5 @@
 # AQI extreme quantile forecasting
-The repository contains the codes for predicting the extreme upper quantiles (0.90, 0.95 and 0.97) of Air Quality Index (AQI) using various quantile regression based statistical, machine learning, stand-alone and hybrid deep learning models. 
+The repository contains the codes for predicting the extreme upper quantiles (0.90, 0.95 and 0.97) of Air Quality Index (AQI) using various quantile regression based statistical and machine learning models. 
 
 ## List of Models:
 1. LASSO quantile regression
