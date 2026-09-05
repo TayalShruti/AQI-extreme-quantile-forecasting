@@ -1,5 +1,5 @@
 # Air Quality Index (AQI) forecasting
-The repository contains the codes for predicting the extreme upper quantiles of Air Quality Index (AQI) using various quantile regression based statistical and machine learning models. 
+The repository contains the codes for predicting the mean and different levels of Air Quality Index (AQI) using various quantile regression based statistical and machine learning models. 
 
 ## List of Models:
 1. LASSO quantile regression
