@@ -1,4 +1,4 @@
-# AQI extreme quantile forecasting
+# Air Quality Index (AQI) forecasting
 The repository contains the codes for predicting the extreme upper quantiles of Air Quality Index (AQI) using various quantile regression based statistical and machine learning models. 
 
 ## List of Models:
